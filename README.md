@@ -8,7 +8,7 @@ The final project for MIDS w266. In this project, we will analyze various songs'
     ├── LICENSE
     ├── README.md          <- The top-level README describing the project aims
     ├── data
-    │   ├── external       <- Data from third party sources.
+    │   ├── raw       <- Data from third party sources.
     │   ├── interim        <- Intermediate data that has been transformed.
     │   └── processed      <- The final, canonical data sets for modeling.
     ├── notebooks          <- .ipynb notebooks. 
