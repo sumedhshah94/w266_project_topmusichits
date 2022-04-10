@@ -1,7 +1,7 @@
 # w266_project_topmusichits
 
 
-The final project for MIDS w266. In this project, we will analyze various songs' lyrics from the 2000s to now and predict whether the song will be a top hit (top 50 Billboard/iTunes charts).
+The final project for MIDS w266. In this project, we will analyze various songs' lyrics from the 2000s to now and predict whether the song will be a top hit on the Billboard Weekly Hot 100 charts.
 
 # Project Organization
 
