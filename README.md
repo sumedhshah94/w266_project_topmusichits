@@ -1,7 +1,7 @@
 # w266_project_topmusichits
 
 
-Final project for Berkeley MIDS class w266 where we utilized a Spotify dataset and analyzed various songs' lyrics and their music metadata from the 2000s to now and predicted whether the song would be a top hit on the Billboard Weekly Hot 100 charts.
+Final project for Berkeley MIDS class w266 where we utilized a Spotify dataset and analyzed various songs' lyrics and their music metadata from the 2000s to now and predicted whether the song would be a top hit on the Billboard Weekly Hot 100 charts. Group members include Sumedh Shah, Kanika Mahajan, and Natali Ojeda Meneses.
 
 
 ## Abstract
