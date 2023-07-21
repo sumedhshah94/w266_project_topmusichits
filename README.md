@@ -5,7 +5,7 @@ Final project for Berkeley MIDS class w266 where we utilized a Spotify dataset a
 
 
 ## Abstract
-Music evolves over time and identifying features that make a song popular is challenging. However, the music industry can immensely benefit by incorporating specific features like certain lyric phrases and musical attributes to produce more hit songs that will make the Billboard charts. This project explores feeding in chunks of song lyrics and its music meta- data into a fine-tuned BERT model to identify hit songs and hones in on the importance of lyrics compared to the song’s metadata. Compared with traditional classification models like Naive Bayes and Logistic Regression, BERT achieves higher performance in classifying hits. Training BERT con- sistently with newer songs would make it possible to under- stand the ever evolving direction of music and seems like a promising approach to produce more hit songs.
+Music evolves over time and identifying features that make a song popular is challenging. However, the music industry can immensely benefit by incorporating specific features like certain lyric phrases and musical attributes to produce more hit songs that will make the Billboard charts. This project explores feeding in chunks of song lyrics and its music metadata into a fine-tuned BERT model to identify hit songs and hones in on the importance of lyrics compared to the song’s metadata. Compared with traditional classification models like Naive Bayes and Logistic Regression, BERT achieves higher performance in classifying hits. Training BERT consistently with newer songs would make it possible to understand the ever evolving direction of music and seems like a promising approach to produce more hit songs.
 
 # Project Organization
 
